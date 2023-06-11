@@ -10,7 +10,8 @@ The goal of the project was to use the AIRBNB dataset to understand the performa
 4.	Came up with five different questions using appropriate fields and visualization to satisfy my curiosity.
 5.	Developed a Dashboard to present my findings.
 
-## ResultsI went with Option2 using AIRBNB dataset.
+## Results
+I went with Option2 using AIRBNB dataset.
 I created visualizations to understand the various correlations and trends within the datasets. The visualization I used to satisfy my curiosity are Line chat which I use to understand how revenue and number of beds have changed over the years. I used bar chart to come up with the top 30 Superhot by pairing the number of reviews and review score ratings. The highlight table was used to visualize the number of properties, by property type and neighbourhood. I used Stacked bars with date function to understand the revenue generated every first month of the year by property type. 
 The five question I asked with the dataset are as follows:
 1.	What are the most common types of property listings (e.g., apartments, houses, private rooms)?
